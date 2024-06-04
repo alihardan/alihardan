@@ -8,7 +8,7 @@
 
 - 👯 collaborating with **DI** company in web development and server support.
 
-  You can find more about me at [alihardan.me](https://alihardan.me/) 🎡
+  You can find more about me at [alihardan.me](https://alihardan.me/), and my [resume](https://alihardan.me/resume.pdf) 🎡
 
 #### 🌐 Socials:
 
