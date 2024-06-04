@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm Ali Hardan 👋</h3>
 
-- 🗓 Born in 1998, hobbyist programmer since 2007, working as a full-stack programmer since 2020.
+- 🗓 Born in 1998, hobbyist programmer since 2007, working as a full-stack programmer since 2022.
 
 - 🐧 Avid GNU/Linux user since 2012.
 
